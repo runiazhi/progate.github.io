@@ -44,6 +44,10 @@
     font-size: 25px;
     color: #b3aeb5;
   }
+  
+  .logo {
+    width: 100px;
+  }
 
   .lesson {
     width: 100%;
@@ -90,9 +94,5 @@
   .top-wrapper p {
     font-size: 14px;
     line-height: 20px;
-  }
-  
-  .logo {
-    width: 100px;
   }
 }
