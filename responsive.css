@@ -4,10 +4,6 @@
     width: 50%;
     margin-bottom: 50px;
   }
-
-  .logo {
-    width: 100px;
-  }
     
   .top-wrapper h1 {
     font-size: 60px;
@@ -94,5 +90,9 @@
   .top-wrapper p {
     font-size: 14px;
     line-height: 20px;
+  }
+  
+  .logo {
+    width: 100px;
   }
 }
